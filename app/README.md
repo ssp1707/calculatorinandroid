@@ -255,8 +255,15 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
+![7 1](https://user-images.githubusercontent.com/75234965/172093317-3e5af8ea-8bf9-4610-83cf-a45f004c9394.png)
 
+![7 2](https://user-images.githubusercontent.com/75234965/172093328-d49d9030-f88c-4946-80e0-2d3a9173ee6c.png)
 
+![7 3](https://user-images.githubusercontent.com/75234965/172093349-49b4075b-497e-4e7e-8737-96ea0fc06cc7.png)
+
+![7 4](https://user-images.githubusercontent.com/75234965/172093379-e1908278-66bf-4410-b3d0-43912ae2aa44.png)
+
+![7 5](https://user-images.githubusercontent.com/75234965/172093405-20a1e307-c1dd-47b4-84ad-6085457a6688.png)
 
 ## RESULT
 Thus a Simple Android Application develop a program to create simple calculator in Android Studio is developed and executed successfully.
